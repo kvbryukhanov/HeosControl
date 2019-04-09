@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HeosControl
+namespace Test
 {
-    class Program
+    class HeosControl
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
